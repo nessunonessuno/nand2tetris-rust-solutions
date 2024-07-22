@@ -1,6 +1,6 @@
 # nand2tetris Solutions in Rust
 
-This repository contains my solutions to the nand2tetris course, implemented primarily in Rust. Some older parts of the project, originally created using the web editor, have been retained despite being incomplete. (jk i deleted it, mostly were hdl files)
+This repository contains my solutions to the nand2tetris course, implemented primarily in Rust. Some older parts of the project, originally created using the web editor, have been retained despite being incomplete.
 
 ## About nand2tetris
 
@@ -20,4 +20,4 @@ Each directory contains its own README with specific details about the implement
 ## Implementation Details
 
 - Primary language: Rust
-- Some components may be implemented differently due to the loss of original web editor work
+- Some components may be implemented differently than intended, but everything works (i guess)
